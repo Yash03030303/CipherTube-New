@@ -1,12 +1,10 @@
 # CipherTube-New
 This is Video Streaming Website which is also compatible with the mobile device with payment integration. This website allows users to upload, watch, and interact with videos. Premium members can access exclusive content
 
-Features
+# Features
 1. User Authentication
 Register: Create a new account with a username, email, and password.
-
 Login/Logout: Securely log in and out of the platform.
-
 Profile Management: Update bio and profile picture.
 
 2. Video Management
@@ -21,7 +19,8 @@ Razorpay Integration: Pay ₹1 to become a premium member.
 Built with Bootstrap for a clean and responsive UI.
 Works seamlessly on all devices (desktop, tablet, mobile).
 
-Technologies Used
+# Technologies Used
+
 Backend:-
 Django: Python-based web framework for backend logic.
 Razorpay: Payment gateway for premium membership.
@@ -37,7 +36,7 @@ Font Awesome: For icons (e.g., profile, messages, comments).
 Django Crispy Forms: For rendering forms beautifully.
 
 
-Setup Instructions
+# Setup Instructions
 1. Clone the Repository
 git clone https://github.com/your-username/video-sharing-website.git
 cd video-sharing-website
@@ -45,7 +44,7 @@ cd video-sharing-website
 3. Set Up a Virtual Environment
 python -m venv venv
 source venv/bin/activate
-# On Windows: venv\Scripts\activate
+On Windows: venv\Scripts\activate
 
 4. Install Dependencies
 pip install -r requirements.txt
@@ -57,7 +56,7 @@ python manage.py migrate
 python manage.py runserver
 
 
-Configuration:-
+# Configuration:-
 
 1. Razorpay Keys
 Add your Razorpay API keys to settings.py:
@@ -69,7 +68,7 @@ Static files (CSS, JS) are served from the static/ directory.
 Media files (videos, thumbnails) are stored in the media/ directory.
 
 
-Contributing:-
+# Contributing:-
 Contributions are welcome! Follow these steps:
 
 1. Fork the repository.
