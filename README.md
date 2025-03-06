@@ -61,9 +61,9 @@ python manage.py runserver
 1. Razorpay Keys
 Add your Razorpay API keys to settings.py:
 
-RAZORPAY_KEY_ID = 'your_razorpay_key_id'
+  RAZORPAY_KEY_ID = 'your_razorpay_key_id'
 
-RAZORPAY_KEY_SECRET = 'your_razorpay_key_secret'
+  RAZORPAY_KEY_SECRET = 'your_razorpay_key_secret'
 
 2. Static and Media Files
 Static files (CSS, JS) are served from the static/ directory.
