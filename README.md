@@ -21,19 +21,19 @@ Works seamlessly on all devices (desktop, tablet, mobile).
 
 # Technologies Used
 
-Backend:-
-Django: Python-based web framework for backend logic.
-Razorpay: Payment gateway for premium membership.
-SQLite: Default database for development.
+1) Backend:-
+  Django: Python-based web framework for backend logic.
+  Razorpay: Payment gateway for premium membership.
+  SQLite: Default database for development.
 
-Frontend
-HTML/CSS: For structuring and styling the website.
-Bootstrap: For responsive design and pre-built components.
-JavaScript: For dynamic interactions (e.g., Razorpay payment popup).
+2) Frontend
+  HTML/CSS: For structuring and styling the website.
+  Bootstrap: For responsive design and pre-built components.
+  JavaScript: For dynamic interactions (e.g., Razorpay payment popup).
 
-Other Tools
-Font Awesome: For icons (e.g., profile, messages, comments).
-Django Crispy Forms: For rendering forms beautifully.
+3) Other Tools
+  Font Awesome: For icons (e.g., profile, messages, comments).
+  Django Crispy Forms: For rendering forms beautifully.
 
 
 # Setup Instructions
